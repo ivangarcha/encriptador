@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Encriptador:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+    <option name="showStatusBarWidget" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d36170d8-2e43-4af8-a786-4a162a4ffac4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kVKxsOHBEUXgzPOOsjSifhoo5h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="318" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.23908046" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="EncriptadorGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EncriptadorGUI" />
+      <module name="Encriptador" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EncriptadorGUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d36170d8-2e43-4af8-a786-4a162a4ffac4" name="Default Changelist" comment="" />
+      <created>1605780567428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605780567428</updated>
+      <workItem from="1605780574980" duration="8817000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="132" y="621" key="#Project_Structure" timestamp="1605780584638">
+      <screen x="0" y="0" width="1080" height="1920" />
+    </state>
+    <state x="132" y="621" key="#Project_Structure/0.0.1080.1920/-1920.0.1920.1040@0.0.1080.1920" timestamp="1605780584638" />
+    <state x="270" y="749" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605788751970">
+      <screen x="0" y="0" width="1080" height="1920" />
+    </state>
+    <state x="270" y="749" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1080.1920/-1920.0.1920.1040@0.0.1080.1920" timestamp="1605788751970" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605788414716">
+      <screen x="0" y="0" width="1080" height="1920" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1080.1920/-1920.0.1920.1040@0.0.1080.1920" timestamp="1605788414716" />
+    <state x="416" y="513" key="FileChooserDialogImpl" timestamp="1605788697082">
+      <screen x="0" y="0" width="1080" height="1920" />
+    </state>
+    <state x="-1180" y="278" key="FileChooserDialogImpl/0.0.1080.1920/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605784201102" />
+    <state x="416" y="513" key="FileChooserDialogImpl/0.0.1080.1920/-1920.0.1920.1040@0.0.1080.1920" timestamp="1605788697082" />
+    <state width="1037" height="201" key="GridCell.Tab.0.bottom" timestamp="1605793427857">
+      <screen x="0" y="0" width="1080" height="1920" />
+    </state>
+    <state width="1020" height="412" key="GridCell.Tab.0.bottom/0.0.1080.1920/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605786315291" />
+    <state width="1037" height="201" key="GridCell.Tab.0.bottom/0.0.1080.1920/-1920.0.1920.1040@0.0.1080.1920" timestamp="1605793427857" />
+    <state width="1037" height="201" key="GridCell.Tab.0.center" timestamp="1605793427857">
+      <screen x="0" y="0" width="1080" height="1920" />
+    </state>
+    <state width="1020" height="412" key="GridCell.Tab.0.center/0.0.1080.1920/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605786315291" />
+    <state width="1037" height="201" key="GridCell.Tab.0.center/0.0.1080.1920/-1920.0.1920.1040@0.0.1080.1920" timestamp="1605793427857" />
+    <state width="1037" height="201" key="GridCell.Tab.0.left" timestamp="1605793427857">
+      <screen x="0" y="0" width="1080" height="1920" />
+    </state>
+    <state width="1020" height="412" key="GridCell.Tab.0.left/0.0.1080.1920/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605786315290" />
+    <state width="1037" height="201" key="GridCell.Tab.0.left/0.0.1080.1920/-1920.0.1920.1040@0.0.1080.1920" timestamp="1605793427857" />
+    <state width="1037" height="201" key="GridCell.Tab.0.right" timestamp="1605793427857">
+      <screen x="0" y="0" width="1080" height="1920" />
+    </state>
+    <state width="1020" height="412" key="GridCell.Tab.0.right/0.0.1080.1920/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605786315291" />
+    <state width="1037" height="201" key="GridCell.Tab.0.right/0.0.1080.1920/-1920.0.1920.1040@0.0.1080.1920" timestamp="1605793427857" />
+    <state x="20" y="537" key="SettingsEditor" timestamp="1605788773683">
+      <screen x="0" y="0" width="1080" height="1920" />
+    </state>
+    <state x="20" y="537" key="SettingsEditor/0.0.1080.1920/-1920.0.1920.1040@0.0.1080.1920" timestamp="1605788773683" />
+  </component>
+</project>
