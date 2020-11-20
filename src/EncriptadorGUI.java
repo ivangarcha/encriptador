@@ -65,6 +65,7 @@ public class EncriptadorGUI extends JFrame{
         JFrame frame = new EncriptadorGUI("Encriptador");
         frame.setSize(600,300);
         frame.setResizable(false);
+        frame.setLocationRelativeTo(null);
         frame.setVisible(true);
     }
 
